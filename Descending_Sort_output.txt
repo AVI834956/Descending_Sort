@@ -1,0 +1,2 @@
+Sorted array in descending order:
+9 8 5 3 2 1 
